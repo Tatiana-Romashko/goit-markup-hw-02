@@ -16,7 +16,7 @@
 }
 
 body {
-  font-family: var(--primary-font-family);
+  font-family: var(--primary-font-family), sans-serif;
   color: var(--primary-text-color-dark);
   background-color: var(--primary-background-color);
 }
